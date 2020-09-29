@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ajayk111/ajayk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Ajay Kristipati
+[![Linkedin Badge](https://img.shields.io/badge/-Ajay_Kristipati-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-kristipati/)](https://www.linkedin.com/in/ajay-kristipati/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+-  **Learning :** Full-Stack Development, Cybersecurity, NAND to Tetris
+-  **Languages :** C, C++, C#, Go, Java, JavaScript, Kotlin, MATLAB, PHP, Python, R, Rust, SQL, Typescript
+-  **Hobbies :** Game Development, Music, Kendo
+-  **Current Projects:**
+   -  Untitled Single-Player RPG
+   -  Untitled Chess-like Game Engine
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ajayk111&show_icons=true)
+
+<!-- Pronouns: They/Them -->
